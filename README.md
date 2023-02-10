@@ -12,7 +12,7 @@ In my free time, I enjoy weight lifting, hiking, watching YouTube, and exploring
 
 * 🌍  I'm based in Athens, Georgia
 * ✉️  You can contact me at [jacobdhubbard@gmail.com](mailto:jacobdhubbard@gmail.com)
-* 🧠  I'm learning Spring Boot and NextJS
+* 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on full-stack projects
 
 ### Skills
