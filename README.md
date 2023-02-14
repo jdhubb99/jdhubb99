@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jake Hubbard
 ====================================================================================================================================
 
-Student and Aspiring Full-Stack Developer
+Student and Full-Stack Developer
 -----------------------------------------
 
 I'm a University of Georgia Computer Science student graduating in May 2023. I have gained valuable experience and knowledge in both frontend and full-stack development. During my internship at Verint Systems, I honed my skills in React, CSS, GraphQL, and worked on various projects that allowed me to apply my technical abilities to real-world scenarios. 
