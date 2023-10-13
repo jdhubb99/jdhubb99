@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and Full-Stack Developer
 -----------------------------------------
 
-I'm a University of Georgia Computer Science student graduating in May 2023. I have gained valuable experience and knowledge in both frontend and full-stack development. During my internship at Verint Systems, I honed my skills in React, CSS, GraphQL, and worked on various projects that allowed me to apply my technical abilities to real-world scenarios. 
+I'm a University of Georgia Computer Science graduate currently working at Infor as an Associate Software Engineer. I have gained valuable experience and knowledge in both frontend and full-stack development. During my internship at Verint Systems, I honed my skills in React, CSS, GraphQL, and worked on various projects that allowed me to apply my technical abilities to real-world scenarios. 
 
 I am a motivated and enthusiastic learner, always striving to expand my skillset and tackle new challenges. I am passionate about creating user-friendly experiences and have a strong eye for detail, ensuring that my projects not only function well but also look visually appealing. I am eager to bring my technical abilities, creativity, and passion to a dynamic team where I can continue to grow and make a positive impact. 
 
 In my free time, I enjoy weight lifting, hiking, watching YouTube, and exploring new and emerging technologies which allows me to bring a unique perspective and approach to my work. Feel free to take a look at my previous projects and experiences, and don't hesitate to reach out if you'd like to discuss how I can contribute to your organization's success. I'm excited to hear from you!
 
-* 🌍  I'm based in Athens, Georgia
+* 🌍  I'm based in Greenville, South Carolina
 * ✉️  You can contact me at [jacobdhubbard@gmail.com](mailto:jacobdhubbard@gmail.com)
-* 🧠  I'm learning the MERN stack
+* 🧠  I'm learning Angular, Spring Boot, and Kubernetes
 * 🤝  I'm open to collaborating on full-stack projects
 
 ### Skills
