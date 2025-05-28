@@ -10,7 +10,7 @@ I am a motivated and enthusiastic learner, always striving to expand my skillset
 
 In my free time, I enjoy weight lifting, hiking, watching YouTube, and exploring new and emerging technologies which allows me to bring a unique perspective and approach to my work. Feel free to take a look at my previous projects and experiences, and don't hesitate to reach out if you'd like to discuss how I can contribute to your organization's success.
 
-* 🌍  I'm based in Greenville, South Carolina
+* 🌍  I'm based in Athens, Georgia
 * ✉️  You can contact me at [jacobdhubbard@gmail.com](mailto:jacobdhubbard@gmail.com)
 * 🧠  I'm learning React, Spring Boot, and AWS
 * 🤝  I'm open to collaborating on full-stack projects
